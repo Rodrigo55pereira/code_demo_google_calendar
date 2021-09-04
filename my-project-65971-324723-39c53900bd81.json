@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "my-project-65971-324723",
+  "private_key_id": "39c53900bd81e0780786e41812bacf882d638050",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQCw/W0x3uG6wcBg\nefTz1UBMGSdyqLLxKrfuxsknC1n1dJApkpE+jzdYCj7KWoKU5NL4nPclnZa7Z1sa\n7uGnUhSl7uw2Ctnt/g75L6w10FI0mvRza5C5pXAJbW9+jtoFCbcB8MhBgkPzrbIl\nZJ4tIc352DjY5WAK54csnJTKH4F+XkTGNcfUpBNTge0iEUgC/fFmxeEUCzjwXnYj\nGtlBJ3p6CAVJKHIg1Ar+mFGxRu/8EkL9GqZROGGJO8faCMZ2FdbPMDI0t2fECSwN\nNc28IaPyF0/aPgXcHOM0zvpOFDlFhycHBBLDvx7Xm72kpFdpmZgXlspvM1BNXpft\nY8NLj0KNAgMBAAECgf8Qr62c/aqP0JyNHqXPiXemrdeH3E8HVbuCxklge7UT1MuS\nyauM9iqpqWfuVdhgsA42O+nyAG5FHbZwyNaJY9678TdwkfKjxAJPQB1pIHo2UsVL\nHtMK+i9wzAWR3jTiDa6zTLJYxOlF1WqOJ+hTs9/HA0kTXnTLGF8VYZqlgg2EsAZR\nnm1zlx/98m6DRviscIUZ8mV1553zCDeWlLr8hAGcdXKPDYaJE1vAbed2DdbmeExj\nVSYmWsi5ptbANdRAe7nA1X+HmvSxq9MvD9ado5S+d4o6PBK8SQKuz0pAB+ooww3T\nNKkudg0QwCcsW/lujBpFurZpGwyb19mjwJcb2XECgYEA7NWApH96MgujrGfK6BVB\nNCq83rlRHBMrQ/Pdk3fkROP6jyo2v+4S2OeoRhAraqMbPj/lkEzbg+gQjXQXM+Yc\nDP6n16/fX5eWctyzP7vqoSznX6yW/ta3HFmkO59G4bY7gc8WGLRSv5YM4HxfOei7\nDY6KisZ5lOtDPty8mVICNUkCgYEAv1AiC3CIIhSZRpspsi6SF+ZxXePzCFr/xENs\nDVx8VeUuS46PQkmFtEsNErB4PVG35cgCu3NyiFM9oXwsJwM4VF2a8y+JYL4PJUpk\nx3H1LvvLPCFfPcJm1epoJTEF+xaEajTtVV1h+bbZhTHnXBar3i4LqkZik++D3m0+\nLS7UFyUCgYApd7ydkOCBcL5IyqeheU9AZhdJ3CLSipyxujpavsxOL6jIdni9pF7S\nccVp9xzTABoeDSwR1xM8hl6XlfMWGD1jHRegUWAIKc+i7vfHugx8ChO9EcgieM/4\n+80gz2Om07SZpvvUeYZfm1NH3x8BUbmmxwWFBPl21LaihB3VrqFKWQKBgQCbtIFw\n5A64BiHVuFVQQtz+fLyJ2QulIkMGHoWjvkEnu5ZZQlbQcXxTh73FF0FVTtwoNQgc\nPlLaJz2C38gjnFhNOb3x7R+XUDiNdiXduZ7+tUnsz5BveHgv5E8M7gBbIjF1K0x6\nbL1f+vTAliQh7AXHl5xA4nY6xvaBolG3fmR5zQKBgBeb1i4kBcQIhQfzIbJX0Qzu\nf8s1E/bXRu3vQ+I+hmb6nOMKkgsHyPEvNYXHw0JAD+BbKddWUkXxpyrsJV8cZXdW\nFjEOG6p/E7awlfjupd03sdZ+mKoMimxtQbOcyihzcGN5U+iPAGBw3wRX8YEYHD27\ni/mBlahFREN9ANNlELP9\n-----END PRIVATE KEY-----\n",
+  "client_email": "testing-google-calendar-api@my-project-65971-324723.iam.gserviceaccount.com",
+  "client_id": "109662348591081143135",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/testing-google-calendar-api%40my-project-65971-324723.iam.gserviceaccount.com"
+}

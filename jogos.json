@@ -1,0 +1,671 @@
+{
+    "campeonato-brasileiro": [
+        {
+            "partida_id": 2327,
+            "campeonato": {
+                "campeonato_id": 10,
+                "nome": "Campeonato Brasileiro",
+                "slug": "campeonato-brasileiro"
+            },
+            "placar": "Palmeiras x Flamengo",
+            "time_mandante": {
+                "time_id": 56,
+                "nome_popular": "Palmeiras",
+                "sigla": "PAL",
+                "escudo": "https://apifutebol.s3.sa-east-1.amazonaws.com/escudos/5f999ccc90039.svg"
+            },
+            "time_visitante": {
+                "time_id": 18,
+                "nome_popular": "Flamengo",
+                "sigla": "FLA",
+                "escudo": "https://apifutebol.s3.sa-east-1.amazonaws.com/escudos/5f999c95084cb.svg"
+            },
+            "placar_mandante": null,
+            "placar_visitante": null,
+            "status": "agendado",
+            "slug": "palmeiras-flamengo-2327",
+            "data_realizacao": "12/09/2021",
+            "hora_realizacao": "16:00",
+            "data_realizacao_iso": "2021-09-12T16:00:00-0300",
+            "estadio": {
+                "estadio_id": 327,
+                "nome_popular": "Allianz Parque"
+            }
+        },
+        {
+            "partida_id": 2344,
+            "campeonato": {
+                "campeonato_id": 10,
+                "nome": "Campeonato Brasileiro",
+                "slug": "campeonato-brasileiro"
+            },
+            "placar": "Chapecoense x Palmeiras",
+            "time_mandante": {
+                "time_id": 5,
+                "nome_popular": "Chapecoense",
+                "sigla": "CHA",
+                "escudo": "https://apifutebol.s3.sa-east-1.amazonaws.com/escudos/5f999c82dc52e.svg"
+            },
+            "time_visitante": {
+                "time_id": 56,
+                "nome_popular": "Palmeiras",
+                "sigla": "PAL",
+                "escudo": "https://apifutebol.s3.sa-east-1.amazonaws.com/escudos/5f999ccc90039.svg"
+            },
+            "placar_mandante": null,
+            "placar_visitante": null,
+            "status": "agendado",
+            "slug": "chapecoense-palmeiras-2344",
+            "data_realizacao": "18/09/2021",
+            "hora_realizacao": "17:00",
+            "data_realizacao_iso": "2021-09-18T17:00:00-0300",
+            "estadio": {
+                "estadio_id": 3,
+                "nome_popular": "Arena Condá"
+            }
+        },
+        {
+            "partida_id": 2347,
+            "campeonato": {
+                "campeonato_id": 10,
+                "nome": "Campeonato Brasileiro",
+                "slug": "campeonato-brasileiro"
+            },
+            "placar": "Corinthians x Palmeiras",
+            "time_mandante": {
+                "time_id": 65,
+                "nome_popular": "Corinthians",
+                "sigla": "COR",
+                "escudo": "https://apifutebol.s3.sa-east-1.amazonaws.com/escudos/5f999d7ab48fa.svg"
+            },
+            "time_visitante": {
+                "time_id": 56,
+                "nome_popular": "Palmeiras",
+                "sigla": "PAL",
+                "escudo": "https://apifutebol.s3.sa-east-1.amazonaws.com/escudos/5f999ccc90039.svg"
+            },
+            "placar_mandante": null,
+            "placar_visitante": null,
+            "status": "agendado",
+            "slug": "corinthians-palmeiras-2347",
+            "data_realizacao": "25/09/2021",
+            "hora_realizacao": "19:00",
+            "data_realizacao_iso": "2021-09-25T19:00:00-0300",
+            "estadio": {
+                "estadio_id": 329,
+                "nome_popular": "Neo Química Arena"
+            }
+        },
+        {
+            "partida_id": 2357,
+            "campeonato": {
+                "campeonato_id": 10,
+                "nome": "Campeonato Brasileiro",
+                "slug": "campeonato-brasileiro"
+            },
+            "placar": "Palmeiras x Juventude",
+            "time_mandante": {
+                "time_id": 56,
+                "nome_popular": "Palmeiras",
+                "sigla": "PAL",
+                "escudo": "https://apifutebol.s3.sa-east-1.amazonaws.com/escudos/5f999ccc90039.svg"
+            },
+            "time_visitante": {
+                "time_id": 43,
+                "nome_popular": "Juventude",
+                "sigla": "JUV",
+                "escudo": "https://apifutebol.s3.sa-east-1.amazonaws.com/escudos/5f999cb997a01.svg"
+            },
+            "placar_mandante": null,
+            "placar_visitante": null,
+            "status": "agendado",
+            "slug": "palmeiras-juventude-2357",
+            "data_realizacao": "03/10/2021",
+            "hora_realizacao": "18:15",
+            "data_realizacao_iso": "2021-10-03T18:15:00-0300",
+            "estadio": {
+                "estadio_id": 327,
+                "nome_popular": "Allianz Parque"
+            }
+        },
+        {
+            "partida_id": 2369,
+            "campeonato": {
+                "campeonato_id": 10,
+                "nome": "Campeonato Brasileiro",
+                "slug": "campeonato-brasileiro"
+            },
+            "placar": "América-MG x Palmeiras",
+            "time_mandante": {
+                "time_id": 33,
+                "nome_popular": "América-MG",
+                "sigla": "AMG",
+                "escudo": "https://apifutebol.s3.sa-east-1.amazonaws.com/escudos/5f999cac0b5cc.svg"
+            },
+            "time_visitante": {
+                "time_id": 56,
+                "nome_popular": "Palmeiras",
+                "sigla": "PAL",
+                "escudo": "https://apifutebol.s3.sa-east-1.amazonaws.com/escudos/5f999ccc90039.svg"
+            },
+            "placar_mandante": null,
+            "placar_visitante": null,
+            "status": "agendado",
+            "slug": "america-mg-palmeiras-2369",
+            "data_realizacao": "06/10/2021",
+            "hora_realizacao": "21:30",
+            "data_realizacao_iso": "2021-10-06T21:30:00-0300",
+            "estadio": {
+                "estadio_id": 27,
+                "nome_popular": "Independência"
+            }
+        },
+        {
+            "partida_id": 2377,
+            "campeonato": {
+                "campeonato_id": 10,
+                "nome": "Campeonato Brasileiro",
+                "slug": "campeonato-brasileiro"
+            },
+            "placar": "Palmeiras x Bragantino",
+            "time_mandante": {
+                "time_id": 56,
+                "nome_popular": "Palmeiras",
+                "sigla": "PAL",
+                "escudo": "https://apifutebol.s3.sa-east-1.amazonaws.com/escudos/5f999ccc90039.svg"
+            },
+            "time_visitante": {
+                "time_id": 64,
+                "nome_popular": "Bragantino",
+                "sigla": "BGT",
+                "escudo": "https://apifutebol.s3.sa-east-1.amazonaws.com/escudos/5f999d770dbb2.svg"
+            },
+            "placar_mandante": null,
+            "placar_visitante": null,
+            "status": "agendado",
+            "slug": "palmeiras-bragantino-2377",
+            "data_realizacao": "09/10/2021",
+            "hora_realizacao": "21:00",
+            "data_realizacao_iso": "2021-10-09T21:00:00-0300",
+            "estadio": {
+                "estadio_id": 327,
+                "nome_popular": "Allianz Parque"
+            }
+        },
+        {
+            "partida_id": 2392,
+            "campeonato": {
+                "campeonato_id": 10,
+                "nome": "Campeonato Brasileiro",
+                "slug": "campeonato-brasileiro"
+            },
+            "placar": "Bahia x Palmeiras",
+            "time_mandante": {
+                "time_id": 68,
+                "nome_popular": "Bahia",
+                "sigla": "BAH",
+                "escudo": "https://apifutebol.s3.sa-east-1.amazonaws.com/escudos/5f999d8090849.svg"
+            },
+            "time_visitante": {
+                "time_id": 56,
+                "nome_popular": "Palmeiras",
+                "sigla": "PAL",
+                "escudo": "https://apifutebol.s3.sa-east-1.amazonaws.com/escudos/5f999ccc90039.svg"
+            },
+            "placar_mandante": null,
+            "placar_visitante": null,
+            "status": "agendado",
+            "slug": "bahia-palmeiras-2392",
+            "data_realizacao": null,
+            "hora_realizacao": null,
+            "data_realizacao_iso": null,
+            "estadio": null
+        },
+        {
+            "partida_id": 2397,
+            "campeonato": {
+                "campeonato_id": 10,
+                "nome": "Campeonato Brasileiro",
+                "slug": "campeonato-brasileiro"
+            },
+            "placar": "Palmeiras x Internacional",
+            "time_mandante": {
+                "time_id": 56,
+                "nome_popular": "Palmeiras",
+                "sigla": "PAL",
+                "escudo": "https://apifutebol.s3.sa-east-1.amazonaws.com/escudos/5f999ccc90039.svg"
+            },
+            "time_visitante": {
+                "time_id": 44,
+                "nome_popular": "Internacional",
+                "sigla": "INT",
+                "escudo": "https://apifutebol.s3.sa-east-1.amazonaws.com/escudos/5f999cbb0b297.svg"
+            },
+            "placar_mandante": null,
+            "placar_visitante": null,
+            "status": "agendado",
+            "slug": "palmeiras-internacional-2397",
+            "data_realizacao": null,
+            "hora_realizacao": null,
+            "data_realizacao_iso": null,
+            "estadio": null
+        },
+        {
+            "partida_id": 2407,
+            "campeonato": {
+                "campeonato_id": 10,
+                "nome": "Campeonato Brasileiro",
+                "slug": "campeonato-brasileiro"
+            },
+            "placar": "Palmeiras x Sport",
+            "time_mandante": {
+                "time_id": 56,
+                "nome_popular": "Palmeiras",
+                "sigla": "PAL",
+                "escudo": "https://apifutebol.s3.sa-east-1.amazonaws.com/escudos/5f999ccc90039.svg"
+            },
+            "time_visitante": {
+                "time_id": 79,
+                "nome_popular": "Sport",
+                "sigla": "SPO",
+                "escudo": "https://apifutebol.s3.sa-east-1.amazonaws.com/escudos/5f999d9173231.svg"
+            },
+            "placar_mandante": null,
+            "placar_visitante": null,
+            "status": "agendado",
+            "slug": "palmeiras-sport-2407",
+            "data_realizacao": null,
+            "hora_realizacao": null,
+            "data_realizacao_iso": null,
+            "estadio": null
+        },
+        {
+            "partida_id": 2420,
+            "campeonato": {
+                "campeonato_id": 10,
+                "nome": "Campeonato Brasileiro",
+                "slug": "campeonato-brasileiro"
+            },
+            "placar": "Grêmio x Palmeiras",
+            "time_mandante": {
+                "time_id": 45,
+                "nome_popular": "Grêmio",
+                "sigla": "GRE",
+                "escudo": "https://apifutebol.s3.sa-east-1.amazonaws.com/escudos/5f999cbc411b2.svg"
+            },
+            "time_visitante": {
+                "time_id": 56,
+                "nome_popular": "Palmeiras",
+                "sigla": "PAL",
+                "escudo": "https://apifutebol.s3.sa-east-1.amazonaws.com/escudos/5f999ccc90039.svg"
+            },
+            "placar_mandante": null,
+            "placar_visitante": null,
+            "status": "agendado",
+            "slug": "gremio-palmeiras-2420",
+            "data_realizacao": null,
+            "hora_realizacao": null,
+            "data_realizacao_iso": null,
+            "estadio": null
+        },
+        {
+            "partida_id": 2428,
+            "campeonato": {
+                "campeonato_id": 10,
+                "nome": "Campeonato Brasileiro",
+                "slug": "campeonato-brasileiro"
+            },
+            "placar": "Santos x Palmeiras",
+            "time_mandante": {
+                "time_id": 63,
+                "nome_popular": "Santos",
+                "sigla": "SAN",
+                "escudo": "https://apifutebol.s3.sa-east-1.amazonaws.com/escudos/5f999d7525121.svg"
+            },
+            "time_visitante": {
+                "time_id": 56,
+                "nome_popular": "Palmeiras",
+                "sigla": "PAL",
+                "escudo": "https://apifutebol.s3.sa-east-1.amazonaws.com/escudos/5f999ccc90039.svg"
+            },
+            "placar_mandante": null,
+            "placar_visitante": null,
+            "status": "agendado",
+            "slug": "santos-palmeiras-2428",
+            "data_realizacao": null,
+            "hora_realizacao": null,
+            "data_realizacao_iso": null,
+            "estadio": null
+        },
+        {
+            "partida_id": 2437,
+            "campeonato": {
+                "campeonato_id": 10,
+                "nome": "Campeonato Brasileiro",
+                "slug": "campeonato-brasileiro"
+            },
+            "placar": "Palmeiras x Atlético-GO",
+            "time_mandante": {
+                "time_id": 56,
+                "nome_popular": "Palmeiras",
+                "sigla": "PAL",
+                "escudo": "https://apifutebol.s3.sa-east-1.amazonaws.com/escudos/5f999ccc90039.svg"
+            },
+            "time_visitante": {
+                "time_id": 98,
+                "nome_popular": "Atlético-GO",
+                "sigla": "ACG",
+                "escudo": "https://apifutebol.s3.sa-east-1.amazonaws.com/escudos/5f999db078911.svg"
+            },
+            "placar_mandante": null,
+            "placar_visitante": null,
+            "status": "agendado",
+            "slug": "palmeiras-atletico-go-2437",
+            "data_realizacao": null,
+            "hora_realizacao": null,
+            "data_realizacao_iso": null,
+            "estadio": null
+        },
+        {
+            "partida_id": 2446,
+            "campeonato": {
+                "campeonato_id": 10,
+                "nome": "Campeonato Brasileiro",
+                "slug": "campeonato-brasileiro"
+            },
+            "placar": "Fluminense x Palmeiras",
+            "time_mandante": {
+                "time_id": 26,
+                "nome_popular": "Fluminense",
+                "sigla": "FLU",
+                "escudo": "https://apifutebol.s3.sa-east-1.amazonaws.com/escudos/5f999ca0e01e3.svg"
+            },
+            "time_visitante": {
+                "time_id": 56,
+                "nome_popular": "Palmeiras",
+                "sigla": "PAL",
+                "escudo": "https://apifutebol.s3.sa-east-1.amazonaws.com/escudos/5f999ccc90039.svg"
+            },
+            "placar_mandante": null,
+            "placar_visitante": null,
+            "status": "agendado",
+            "slug": "fluminense-palmeiras-2446",
+            "data_realizacao": null,
+            "hora_realizacao": null,
+            "data_realizacao_iso": null,
+            "estadio": null
+        },
+        {
+            "partida_id": 2457,
+            "campeonato": {
+                "campeonato_id": 10,
+                "nome": "Campeonato Brasileiro",
+                "slug": "campeonato-brasileiro"
+            },
+            "placar": "Palmeiras x São Paulo",
+            "time_mandante": {
+                "time_id": 56,
+                "nome_popular": "Palmeiras",
+                "sigla": "PAL",
+                "escudo": "https://apifutebol.s3.sa-east-1.amazonaws.com/escudos/5f999ccc90039.svg"
+            },
+            "time_visitante": {
+                "time_id": 57,
+                "nome_popular": "São Paulo",
+                "sigla": "SAO",
+                "escudo": "https://apifutebol.s3.sa-east-1.amazonaws.com/escudos/5f999ccdc1656.svg"
+            },
+            "placar_mandante": null,
+            "placar_visitante": null,
+            "status": "agendado",
+            "slug": "palmeiras-sao-paulo-2457",
+            "data_realizacao": null,
+            "hora_realizacao": null,
+            "data_realizacao_iso": null,
+            "estadio": null
+        },
+        {
+            "partida_id": 2471,
+            "campeonato": {
+                "campeonato_id": 10,
+                "nome": "Campeonato Brasileiro",
+                "slug": "campeonato-brasileiro"
+            },
+            "placar": "Fortaleza x Palmeiras",
+            "time_mandante": {
+                "time_id": 131,
+                "nome_popular": "Fortaleza",
+                "sigla": "FOR",
+                "escudo": "https://apifutebol.s3.sa-east-1.amazonaws.com/escudos/5f999ddaa261b.svg"
+            },
+            "time_visitante": {
+                "time_id": 56,
+                "nome_popular": "Palmeiras",
+                "sigla": "PAL",
+                "escudo": "https://apifutebol.s3.sa-east-1.amazonaws.com/escudos/5f999ccc90039.svg"
+            },
+            "placar_mandante": null,
+            "placar_visitante": null,
+            "status": "agendado",
+            "slug": "fortaleza-palmeiras-2471",
+            "data_realizacao": null,
+            "hora_realizacao": null,
+            "data_realizacao_iso": null,
+            "estadio": null
+        },
+        {
+            "partida_id": 2477,
+            "campeonato": {
+                "campeonato_id": 10,
+                "nome": "Campeonato Brasileiro",
+                "slug": "campeonato-brasileiro"
+            },
+            "placar": "Palmeiras x Atlético-MG",
+            "time_mandante": {
+                "time_id": 56,
+                "nome_popular": "Palmeiras",
+                "sigla": "PAL",
+                "escudo": "https://apifutebol.s3.sa-east-1.amazonaws.com/escudos/5f999ccc90039.svg"
+            },
+            "time_visitante": {
+                "time_id": 30,
+                "nome_popular": "Atlético-MG",
+                "sigla": "CAM",
+                "escudo": "https://apifutebol.s3.sa-east-1.amazonaws.com/escudos/5f999ca6bfd30.svg"
+            },
+            "placar_mandante": null,
+            "placar_visitante": null,
+            "status": "agendado",
+            "slug": "palmeiras-atletico-mg-2477",
+            "data_realizacao": null,
+            "hora_realizacao": null,
+            "data_realizacao_iso": null,
+            "estadio": null
+        },
+        {
+            "partida_id": 2495,
+            "campeonato": {
+                "campeonato_id": 10,
+                "nome": "Campeonato Brasileiro",
+                "slug": "campeonato-brasileiro"
+            },
+            "placar": "Cuiabá x Palmeiras",
+            "time_mandante": {
+                "time_id": 204,
+                "nome_popular": "Cuiabá",
+                "sigla": "CUI",
+                "escudo": "https://apifutebol.s3.sa-east-1.amazonaws.com/escudos/5f999e4424264.svg"
+            },
+            "time_visitante": {
+                "time_id": 56,
+                "nome_popular": "Palmeiras",
+                "sigla": "PAL",
+                "escudo": "https://apifutebol.s3.sa-east-1.amazonaws.com/escudos/5f999ccc90039.svg"
+            },
+            "placar_mandante": null,
+            "placar_visitante": null,
+            "status": "agendado",
+            "slug": "cuiaba-palmeiras-2495",
+            "data_realizacao": null,
+            "hora_realizacao": null,
+            "data_realizacao_iso": null,
+            "estadio": null
+        },
+        {
+            "partida_id": 2503,
+            "campeonato": {
+                "campeonato_id": 10,
+                "nome": "Campeonato Brasileiro",
+                "slug": "campeonato-brasileiro"
+            },
+            "placar": "Athletico-PR x Palmeiras",
+            "time_mandante": {
+                "time_id": 185,
+                "nome_popular": "Athletico-PR",
+                "sigla": "CAP",
+                "escudo": "https://apifutebol.s3.sa-east-1.amazonaws.com/escudos/5f999e2864a27.svg"
+            },
+            "time_visitante": {
+                "time_id": 56,
+                "nome_popular": "Palmeiras",
+                "sigla": "PAL",
+                "escudo": "https://apifutebol.s3.sa-east-1.amazonaws.com/escudos/5f999ccc90039.svg"
+            },
+            "placar_mandante": null,
+            "placar_visitante": null,
+            "status": "agendado",
+            "slug": "athletico-pr-palmeiras-2503",
+            "data_realizacao": null,
+            "hora_realizacao": null,
+            "data_realizacao_iso": null,
+            "estadio": null
+        },
+        {
+            "partida_id": 2507,
+            "campeonato": {
+                "campeonato_id": 10,
+                "nome": "Campeonato Brasileiro",
+                "slug": "campeonato-brasileiro"
+            },
+            "placar": "Palmeiras x Ceará",
+            "time_mandante": {
+                "time_id": 56,
+                "nome_popular": "Palmeiras",
+                "sigla": "PAL",
+                "escudo": "https://apifutebol.s3.sa-east-1.amazonaws.com/escudos/5f999ccc90039.svg"
+            },
+            "time_visitante": {
+                "time_id": 105,
+                "nome_popular": "Ceará",
+                "sigla": "CEA",
+                "escudo": "https://apifutebol.s3.sa-east-1.amazonaws.com/escudos/5f999dba767ba.svg"
+            },
+            "placar_mandante": null,
+            "placar_visitante": null,
+            "status": "agendado",
+            "slug": "palmeiras-ceara-2507",
+            "data_realizacao": null,
+            "hora_realizacao": null,
+            "data_realizacao_iso": null,
+            "estadio": null
+        },
+        {
+            "partida_id": 3217,
+            "campeonato": {
+                "campeonato_id": 10,
+                "nome": "Campeonato Brasileiro",
+                "slug": "campeonato-brasileiro"
+            },
+            "placar": "Ceará x Palmeiras",
+            "time_mandante": {
+                "time_id": 105,
+                "nome_popular": "Ceará",
+                "sigla": "CEA",
+                "escudo": "https://apifutebol.s3.sa-east-1.amazonaws.com/escudos/5f999dba767ba.svg"
+            },
+            "time_visitante": {
+                "time_id": 56,
+                "nome_popular": "Palmeiras",
+                "sigla": "PAL",
+                "escudo": "https://apifutebol.s3.sa-east-1.amazonaws.com/escudos/5f999ccc90039.svg"
+            },
+            "placar_mandante": null,
+            "placar_visitante": null,
+            "status": "agendado",
+            "slug": "ceara-palmeiras-3217",
+            "data_realizacao": null,
+            "hora_realizacao": null,
+            "data_realizacao_iso": null,
+            "estadio": {
+                "estadio_id": 112,
+                "nome_popular": "Castelão (CE)"
+            }
+        }
+    ],
+    "copa-libertadores-da-america": [
+        {
+            "partida_id": 3966,
+            "campeonato": {
+                "campeonato_id": 7,
+                "nome": "Copa Libertadores da América",
+                "slug": "copa-libertadores-da-america"
+            },
+            "placar": "Palmeiras x Atlético-MG",
+            "time_mandante": {
+                "time_id": 56,
+                "nome_popular": "Palmeiras",
+                "sigla": "PAL",
+                "escudo": "https://apifutebol.s3.sa-east-1.amazonaws.com/escudos/5f999ccc90039.svg"
+            },
+            "time_visitante": {
+                "time_id": 30,
+                "nome_popular": "Atlético-MG",
+                "sigla": "CAM",
+                "escudo": "https://apifutebol.s3.sa-east-1.amazonaws.com/escudos/5f999ca6bfd30.svg"
+            },
+            "placar_mandante": null,
+            "placar_visitante": null,
+            "status": "agendado",
+            "slug": "palmeiras-atletico-mg-22-09-2021",
+            "data_realizacao": "21/09/2021",
+            "hora_realizacao": "21:30",
+            "data_realizacao_iso": "2021-09-21T21:30:00-0300",
+            "estadio": {
+                "estadio_id": 327,
+                "nome_popular": "Allianz Parque"
+            }
+        },
+        {
+            "partida_id": 3967,
+            "campeonato": {
+                "campeonato_id": 7,
+                "nome": "Copa Libertadores da América",
+                "slug": "copa-libertadores-da-america"
+            },
+            "placar": "Atlético-MG x Palmeiras",
+            "time_mandante": {
+                "time_id": 30,
+                "nome_popular": "Atlético-MG",
+                "sigla": "CAM",
+                "escudo": "https://apifutebol.s3.sa-east-1.amazonaws.com/escudos/5f999ca6bfd30.svg"
+            },
+            "time_visitante": {
+                "time_id": 56,
+                "nome_popular": "Palmeiras",
+                "sigla": "PAL",
+                "escudo": "https://apifutebol.s3.sa-east-1.amazonaws.com/escudos/5f999ccc90039.svg"
+            },
+            "placar_mandante": null,
+            "placar_visitante": null,
+            "status": "agendado",
+            "slug": "atletico-mg-palmeiras-29-09-2021",
+            "data_realizacao": "28/09/2021",
+            "hora_realizacao": "21:30",
+            "data_realizacao_iso": "2021-09-28T21:30:00-0300",
+            "estadio": {
+                "estadio_id": 42,
+                "nome_popular": "Mineirão"
+            }
+        }
+    ]
+}
